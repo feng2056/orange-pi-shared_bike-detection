@@ -1,0 +1,15 @@
+# 模型权重文件
+*.pt
+*.onnx
+*.om
+*.pth
+
+# 数据集和训练结果
+dataset/
+runs/
+models/weights/
+
+# 缓存和配置文件
+__pycache__/
+.idea/
+*.pyc
